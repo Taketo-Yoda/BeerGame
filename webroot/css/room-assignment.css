@@ -1,0 +1,56 @@
+#role-assighn-div > .loading {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 998;
+}
+#role-assighn-div > .loading > .spinner {
+    width: 10rem;
+    height: 10rem;
+    z-index: 999;
+    opacity: 1;
+}
+.room-assignment {
+    padding-left:0;
+    padding-right:0;
+}
+.unit.dropable-area {
+    height : 5rem;
+}
+.user-card {
+    width : 30vw;
+}
+.user-card .card-body {
+    padding-top : 1px;
+    padding-bottom : 1px;
+    height : 30px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.unit-card {
+    width : 35vw;
+}
+.unit-card .card-body.unit {
+    height : 45px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.btn {
+    width : 120px;
+}
+.room-assignment {
+    margin-bottom:5px;
+}
+#owners-btn {
+    margin-top:5px;
+}
+#btn-cancel {
+    margin-left : 5px;
+}
+#leave-btn {
+    margin-left : 5px;
+}

@@ -1,0 +1,30 @@
+#chatlog {
+    background-color:white;
+    overflow-y:auto;
+    height:90px;
+    margin-bottom:5px;
+}
+#chatlog .system-msg {
+    background-color:aquamarine;
+}
+body {
+    width:100%;
+}
+main .content-area{
+    overflow: auto;
+    padding-bottom:150px;
+}
+.container {
+    padding-top : 5px;
+    padding-bottom: 5px;
+}
+footer {  
+    position: fixed;  
+    bottom: 0;  
+    margin:0;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%; 
+    height: 150px;
+    background-color: #89c7de;
+}

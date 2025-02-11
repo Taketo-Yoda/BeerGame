@@ -1,0 +1,279 @@
+# LANGUAGE translation of CakePHP Application
+#################################
+# 汎用キーワード
+#################################
+msgid "Beer Game"
+msgstr "ビール ゲーム"
+
+msgid "LOGIN"
+msgstr "ログイン"
+
+msgid "Top"
+msgstr "トップページ"
+
+msgid "Game"
+msgstr "ゲーム"
+
+msgid "Game Start"
+msgstr "ゲーム開始"
+
+msgid "User Info"
+msgstr "ユーザ情報"
+
+msgid "Users"
+msgstr "ユーザ一覧"
+
+msgid "Change Password"
+msgstr "パスワード変更"
+
+msgid "Add User"
+msgstr "ユーザー追加"
+
+msgid "Edit User"
+msgstr "ユーザー情報変更"
+
+msgid "Delete User"
+msgstr "ユーザー削除"
+
+msgid "Entrance"
+msgstr "エントランス"
+
+msgid "Add Room"
+msgstr "部屋を作る"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "View"
+msgstr "参照"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Edit"
+msgstr "変更"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Submit"
+msgstr "実行"
+
+msgid "Reload"
+msgstr "リロード"
+
+msgid "Old Game"
+msgstr "過去のゲーム"
+
+msgid "Enter"
+msgstr "入室"
+
+msgid "Watch"
+msgstr "観戦"
+
+msgid "Decision"
+msgstr "決定"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Return Top"
+msgstr "TOPへ戻る"
+
+msgid "Leave"
+msgstr "退室"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Nickname"
+msgstr "ニックネーム"
+
+msgid "Auth Name"
+msgstr "権限"
+
+msgid "Participate Cnt"
+msgstr "ゲーム参加回数"
+
+msgid "Last Login"
+msgstr "最終ログイン日時"
+
+msgid "Reset Password"
+msgstr "パスワードリセット"
+
+msgid "Room Name"
+msgstr "部屋名"
+
+msgid "Difficulty"
+msgstr 難易度
+
+msgid "Number Of Turn"
+msgstr "ターン数"
+
+msgid "tutorial"
+msgstr "チュートリアル"
+
+msgid "normal"
+msgstr "普通"
+
+msgid "Participant"
+msgstr "参加者"
+
+msgid "Role"
+msgstr "役割"
+
+msgid "Retailer"
+msgstr "小売"
+
+msgid "Wholesale"
+msgstr "二次卸"
+
+msgid "Distributor"
+msgstr "一次卸"
+
+msgid "Factory"
+msgstr "工場"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Move"
+msgstr "移動"
+
+msgid "Order"
+msgstr "受注"
+
+msgid "Customer"
+msgstr "顧客"
+
+msgid "Delivery request"
+msgstr "配送依頼"
+
+msgid "Shipping"
+msgstr "配送中"
+
+msgid "Inventory"
+msgstr "在庫"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Backlog Of Orders"
+msgstr "受注残"
+
+msgid "Production Request"
+msgstr "生産依頼"
+
+msgid "In production"
+msgstr "製造中"
+
+msgid "Purchasing"
+msgstr "発注"
+
+msgid "Receipt"
+msgstr "受領"
+
+msgid "Sale"
+msgstr "販売"
+
+msgid "Shipping Request"
+msgstr "出荷"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Back to Entrance"
+msgstr "エントランスへ戻る"
+
+#################################
+# エラーコード/メッセージ
+#################################
+msgid "E00001"
+msgstr "アカウント、パスワードは入力必須です"
+
+msgid "E00002"
+msgstr "アカウントまたはパスワードが不正です"
+
+msgid "E00003"
+msgstr "パスワードは6桁以上の値を入力してください"
+
+msgid "E00004"
+msgstr "必須項目が入力されていません"
+
+msgid "E00005"
+msgstr "旧パスワードが不正です"
+
+msgid "E00006"
+msgstr "新パスワード1と2の内容が異なります。同じ値を入力してください"
+
+msgid "E00007"
+msgstr "新パスワードは旧パスワードと異なる値を入力してください"
+
+msgid "E00008"
+msgstr "権限設定変更はできません"
+
+msgid "E00009"
+msgstr "ターン数は数値を入力してください"
+
+msgid "E00010 {0}"
+msgstr "{0}の保存に失敗しました"
+
+msgid "E00011"
+msgstr "他のユーザが更新中です。再度やり直してください"
+
+msgid "E00012"
+msgstr "ゲームがクローズされました"
+
+msgid "E00013"
+msgstr "既に満室です"
+
+msgid "E00014"
+msgstr "メッセージの送信に失敗しました"
+
+msgid "E00015"
+msgstr "ゲームが進行中のため退室できません"
+
+msgid "E00016"
+msgstr "既に退室済みです"
+
+msgid "E00017"
+msgstr "すべての役割を入力してください"
+
+msgid "E00018"
+msgstr "パラメータが不正です"
+
+msgid "W00001"
+msgstr "既に他のゲームにエントリしています"
+
+msgid "S00001"
+msgstr "エントリーしました"
+
+msgid "S00002"
+msgstr "ゲームルームを作成しました"
+
+msgid "S00003 {0}"
+msgstr "{0}さんが入室しました"
+
+msgid "S00004"
+msgstr "参加メンバーが揃いました。役割を決定してください"
+
+msgid "S00005 {0}"
+msgstr "{0}さんが退室しました"
+
+msgid "I00001"
+msgstr "メンバーが揃うまでお待ちください"
+
+msgid "I00002"
+msgstr "ドラッグ＆ドロップでユーザの役割を決定してください"
+
+msgid "I00003"
+msgstr "オーナーが役割を決定しています。しばらくお待ちください。"
+
+msgid "I00004"
+msgstr "役割が以下のように決定しました。10秒後に自動的にゲームルームへ移動します。"

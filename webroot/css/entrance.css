@@ -1,0 +1,39 @@
+button, li {
+    margin-bottom : 0px;
+}
+
+.badge {
+    margin-left : 1rem;
+}
+
+.btn {
+    min-width : 10rem;
+    max-width : 20rem;
+}
+
+.in-li-btn {
+    margin-left: 1rem;
+}
+
+#room-btn-div {
+    margin-bottom : 1rem;
+    margin-left: 20px;
+}
+
+#entranc-content .content{
+    padding-left: 0px;
+    padding-right:0px;
+}
+
+#entrance-head-content {
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+#btn-create-room {
+    margin-bottom:0px;
+}
+#game-list-content {
+    margin-top: 5px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
